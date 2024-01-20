@@ -9,6 +9,7 @@ Title: Weather Information App
 - **Troubleshooting Support**: Assist users in identifying issues by printing detailed error messages and API response content when errors occur.
 - **Versatile for Different Locations**: Support weather retrieval for various cities around the world by accepting user input for city and 
   country.
+  
 ![image](https://github.com/prem-karanwal/Weather-app/assets/113821428/c0901bcd-1cd1-4864-ad6b-c27680585be4)
 
 
